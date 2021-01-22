@@ -9,6 +9,3 @@ Through trial and error the intial accuracy of the model which around 74% was in
 Programming Languages: Python
 
 Tools/Libraries: Jupyter Notebook, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-
-
-
