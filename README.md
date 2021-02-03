@@ -1,5 +1,8 @@
 # Anonymized_KNN_Analysis
 
+## IMPORTANT NOTE: If the notebook does not load in Github it can alternately be viewed via the link below.
+https://nbviewer.jupyter.org/github/epiacentini/Anonymized_KNN_Analysis/blob/main/Anonymized_Data_K_Nearest_Neighbors.ipynb
+
 Project Overview: Presented with an anonymized data set (no labels for any of the columns) try and classify the different data points.
 
 Because this is not a very complex dataset the data was almost instantly ready to be put into a KNN classifier. The main challenge was because I dont know exactly what I am classfying it is hard to discern the n_neighbors. Ultimately this value was achieved by iterating through various values and plotting out the total error of the model for each one. Looking at all these iterations on a graph allowed us to easily see which value was best.
